@@ -1,3 +1,6 @@
+
+### This code is associated with the paper from Kothari et al., "Dynamic representation of 3D auditory space in the midbrain of the free-flying echolocating bat". eLife, 2018. http://dx.doi.org/10.7554/eLife.29053
+
 # Dynamic-3D-auditory-space-in-bats
 Clinical Face Phenotype Space pipeline.
 v1.2
